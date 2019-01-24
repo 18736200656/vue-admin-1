@@ -145,7 +145,6 @@
 						data: this.lineData
 					}]
 				})
-				console.log(listChart.setOption)
 			}
 		}
 	}
