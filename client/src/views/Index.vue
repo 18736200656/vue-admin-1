@@ -74,7 +74,8 @@ export default {
   left: 180px;
   right: 0;
   top: 72px;
-  bottom: 0;
+  height: 100%;
+  overflow-y: scroll;
   padding-bottom: 30px;
   transition: left 0.3s ease-in-out;
 }
